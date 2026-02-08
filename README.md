@@ -148,21 +148,6 @@ Sensitivity: 78%  |  Specificity: 93%
 
 ---
 
-## 📁 Project Structure
-```
-├── 1DCNN.ipynb                          # Complete pipeline
-├── data/
-│   └── gallstone_data.csv               # UCI dataset
-├── models/
-│   └── best_gallstone_cnn_model.keras   # Trained model
-├── results/
-│   ├── shap_summary_plot.png
-│   ├── roc_curve.png
-│   └── feature_importance_summary.csv
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ## 💻 Technologies Used
