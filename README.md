@@ -148,8 +148,6 @@ Sensitivity: 78%  |  Specificity: 93%
 
 ---
 
----
-
 ## 💻 Technologies Used
 
 * Python 3.8+
